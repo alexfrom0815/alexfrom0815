@@ -3,7 +3,9 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfrom0815&layout=compact&hide=html" alt="alexfrom0815" /></p>
 
 <!-- https://github.com/rahuldkjain/github-profile-readme-generator -->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfrom0815&layout=compact&hide=html" alt="alexfrom0815" /></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexfrom0815&show_icons=true" alt="alexfrom0815" /></p>
 <!--
 **alexfrom0815/alexfrom0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
